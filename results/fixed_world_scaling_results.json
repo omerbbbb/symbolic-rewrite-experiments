@@ -1,0 +1,5043 @@
+{
+ "scales": [
+  100,
+  300,
+  1000,
+  3000,
+  10000
+ ],
+ "seeds": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "integrity": {
+  "fixed_lexicon": true,
+  "fixed_grammar": true,
+  "fixed_heldout": true,
+  "nested": true,
+  "data_identity": true,
+  "violations": []
+ },
+ "world_signatures": {
+  "1": {
+   "subject_families": [
+    [
+     "kuful",
+     "biposu",
+     "bufo"
+    ],
+    [
+     "lige",
+     "pake",
+     "sipar"
+    ],
+    [
+     "nalum",
+     "sires",
+     "rala"
+    ]
+   ],
+   "verbs": [
+    "nisafu",
+    "gusuka",
+    "rotibu"
+   ],
+   "object_families": [
+    [
+     "pafe",
+     "fadura",
+     "defi",
+     "veton"
+    ],
+    [
+     "videga",
+     "zovo",
+     "kodati",
+     "gabi"
+    ],
+    [
+     "tifosi",
+     "lukase",
+     "netu",
+     "buror"
+    ]
+   ],
+   "objfam_table": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ],
+   "heldout_pairs": [
+    [
+     "biposu",
+     "nisafu"
+    ],
+    [
+     "sipar",
+     "gusuka"
+    ],
+    [
+     "nalum",
+     "rotibu"
+    ]
+   ],
+   "heldout_prefixes": [
+    "biposupafonisafu",
+    "nalumpaforotibu",
+    "siparpafogusuka"
+   ],
+   "probe_filler": "pafo",
+   "n_fillers": 150
+  },
+  "2": {
+   "subject_families": [
+    [
+     "sigen",
+     "movibo",
+     "nirevu"
+    ],
+    [
+     "dofe",
+     "gara",
+     "sunepi"
+    ],
+    [
+     "kabol",
+     "foter",
+     "norem"
+    ]
+   ],
+   "verbs": [
+    "somoli",
+    "bebe",
+    "papi"
+   ],
+   "object_families": [
+    [
+     "tofa",
+     "lusen",
+     "bilaza",
+     "miso"
+    ],
+    [
+     "ruzu",
+     "sazafa",
+     "vusas",
+     "goban"
+    ],
+    [
+     "sutoge",
+     "norar",
+     "neli",
+     "zanen"
+    ]
+   ],
+   "objfam_table": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ],
+   "heldout_pairs": [
+    [
+     "movibo",
+     "bebe"
+    ],
+    [
+     "sunepi",
+     "papi"
+    ],
+    [
+     "norem",
+     "somoli"
+    ]
+   ],
+   "heldout_prefixes": [
+    "movibotofobebe",
+    "noremtofosomoli",
+    "sunepitofopapi"
+   ],
+   "probe_filler": "tofo",
+   "n_fillers": 150
+  },
+  "3": {
+   "subject_families": [
+    [
+     "tora",
+     "bunove",
+     "bime"
+    ],
+    [
+     "saku",
+     "deda",
+     "sideza"
+    ],
+    [
+     "sisul",
+     "sopo",
+     "vufoze"
+    ]
+   ],
+   "verbs": [
+    "bofuna",
+    "vasam",
+    "laguvu"
+   ],
+   "object_families": [
+    [
+     "tagu",
+     "rimil",
+     "visulu",
+     "bovi"
+    ],
+    [
+     "torul",
+     "zeribi",
+     "sogavu",
+     "leluna"
+    ],
+    [
+     "safo",
+     "fede",
+     "bilolu",
+     "bome"
+    ]
+   ],
+   "objfam_table": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ],
+   "heldout_pairs": [
+    [
+     "tora",
+     "laguvu"
+    ],
+    [
+     "sideza",
+     "bofuna"
+    ],
+    [
+     "sopo",
+     "vasam"
+    ]
+   ],
+   "heldout_prefixes": [
+    "sidezatatarbofuna",
+    "sopotatarvasam",
+    "toratatarlaguvu"
+   ],
+   "probe_filler": "tatar",
+   "n_fillers": 150
+  },
+  "4": {
+   "subject_families": [
+    [
+     "sokoso",
+     "notis",
+     "zukum"
+    ],
+    [
+     "bani",
+     "pefepi",
+     "bupuba"
+    ],
+    [
+     "sukol",
+     "lugi",
+     "nibi"
+    ]
+   ],
+   "verbs": [
+    "musita",
+    "dupu",
+    "gufeze"
+   ],
+   "object_families": [
+    [
+     "sidepi",
+     "make",
+     "rudu",
+     "mupar"
+    ],
+    [
+     "fipafu",
+     "loze",
+     "punabe",
+     "vori"
+    ],
+    [
+     "bases",
+     "nemezu",
+     "kamubi",
+     "nizi"
+    ]
+   ],
+   "objfam_table": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ],
+   "heldout_pairs": [
+    [
+     "zukum",
+     "musita"
+    ],
+    [
+     "bani",
+     "dupu"
+    ],
+    [
+     "lugi",
+     "gufeze"
+    ]
+   ],
+   "heldout_prefixes": [
+    "banidivamdupu",
+    "lugidivamgufeze",
+    "zukumdivammusita"
+   ],
+   "probe_filler": "divam",
+   "n_fillers": 150
+  },
+  "5": {
+   "subject_families": [
+    [
+     "kumir",
+     "miba",
+     "nuzu"
+    ],
+    [
+     "vevufo",
+     "vuze",
+     "ligim"
+    ],
+    [
+     "sarun",
+     "sidol",
+     "vutabi"
+    ]
+   ],
+   "verbs": [
+    "risi",
+    "doge",
+    "kiros"
+   ],
+   "object_families": [
+    [
+     "foril",
+     "tipe",
+     "notu",
+     "ganu"
+    ],
+    [
+     "tule",
+     "dutase",
+     "gitem",
+     "gosu"
+    ],
+    [
+     "zigipa",
+     "zade",
+     "lamun",
+     "zenimo"
+    ]
+   ],
+   "objfam_table": [
+    [
+     0,
+     1,
+     2
+    ],
+    [
+     1,
+     2,
+     0
+    ],
+    [
+     2,
+     0,
+     1
+    ]
+   ],
+   "heldout_pairs": [
+    [
+     "nuzu",
+     "risi"
+    ],
+    [
+     "vuze",
+     "doge"
+    ],
+    [
+     "vutabi",
+     "kiros"
+    ]
+   ],
+   "heldout_prefixes": [
+    "nuzusupavirisi",
+    "vutabisupavikiros",
+    "vuzesupavidoge"
+   ],
+   "probe_filler": "supavi",
+   "n_fillers": 150
+  }
+ },
+ "symbolic": {
+  "100": [
+   {
+    "train_seconds": 8.744548797607422,
+    "precision": 0.32323232323232326,
+    "recall": 0.8333333333333334,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6767676767676768,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 10.333333333333334,
+    "decisions": 4302,
+    "new_rule_search_fraction": 0.29916317991631797,
+    "unsolved": 139,
+    "reuse_events": 3015,
+    "generalization_events": 78,
+    "generalization_rejected_counterexample": 738,
+    "active_rules": 1608,
+    "total_rules": 1686,
+    "internal_symbols": 612,
+    "reused_rules": 723,
+    "new_rule_rate_first_decile": 0.7023255813953488,
+    "new_rule_rate_last_decile": 0.12064965197215777,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "pake",
+       "sipar"
+      ],
+      [
+       "bufo",
+       "lige",
+       "rala"
+      ],
+      [
+       "kuful",
+       "nalum",
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 2,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 7,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "biposupafonisafu",
+      "metrics": {
+       "generated": 9,
+       "true_positive": 3,
+       "precision": 0.3333333333333333,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 9,
+      "compatible": [
+       "biposupafonisafudefi#",
+       "biposupafonisafufadura#",
+       "biposupafonisafupafe#"
+      ]
+     },
+     {
+      "prefix": "nalumpaforotibu",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 4,
+       "precision": 0.36363636363636365,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6363636363636364,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "nalumpaforotibugabi#",
+       "nalumpaforotibukodati#",
+       "nalumpaforotibuvidega#",
+       "nalumpaforotibuzovo#"
+      ]
+     },
+     {
+      "prefix": "siparpafogusuka",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 3,
+       "precision": 0.2727272727272727,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7272727272727273,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "siparpafogusukaburor#",
+       "siparpafogusukalukase#",
+       "siparpafogusukatifosi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 1,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 7.88479208946228,
+    "precision": 0.27424242424242423,
+    "recall": 0.6666666666666666,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.7257575757575757,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 9.666666666666666,
+    "decisions": 4056,
+    "new_rule_search_fraction": 0.3185404339250493,
+    "unsolved": 139,
+    "reuse_events": 2764,
+    "generalization_events": 76,
+    "generalization_rejected_counterexample": 408,
+    "active_rules": 1620,
+    "total_rules": 1696,
+    "internal_symbols": 611,
+    "reused_rules": 749,
+    "new_rule_rate_first_decile": 0.7481481481481481,
+    "new_rule_rate_last_decile": 0.10344827586206896,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "movibo",
+       "sunepi"
+      ],
+      [
+       "foter"
+      ],
+      [
+       "gara"
+      ],
+      [
+       "kabol",
+       "norem"
+      ],
+      [
+       "nirevu"
+      ],
+      [
+       "sigen"
+      ]
+     ],
+     "same_family_pairs_grouped": 2,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 2,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "movibotofobebe",
+      "metrics": {
+       "generated": 8,
+       "true_positive": 2,
+       "precision": 0.25,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.75,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 8,
+      "compatible": [
+       "movibotofobeberuzu#",
+       "movibotofobebesazafa#"
+      ]
+     },
+     {
+      "prefix": "noremtofosomoli",
+      "metrics": {
+       "generated": 10,
+       "true_positive": 3,
+       "precision": 0.3,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 10,
+      "compatible": [
+       "noremtofosomolineli#",
+       "noremtofosomolinorar#",
+       "noremtofosomolisutoge#"
+      ]
+     },
+     {
+      "prefix": "sunepitofopapi",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 3,
+       "precision": 0.2727272727272727,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7272727272727273,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "sunepitofopapibilaza#",
+       "sunepitofopapilusen#",
+       "sunepitofopapitofa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 2,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 7.5886390209198,
+    "precision": 0.24444444444444446,
+    "recall": 0.5833333333333334,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.7555555555555555,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 9.666666666666666,
+    "decisions": 4244,
+    "new_rule_search_fraction": 0.3006597549481621,
+    "unsolved": 142,
+    "reuse_events": 2968,
+    "generalization_events": 58,
+    "generalization_rejected_counterexample": 399,
+    "active_rules": 1602,
+    "total_rules": 1660,
+    "internal_symbols": 594,
+    "reused_rules": 763,
+    "new_rule_rate_first_decile": 0.6957547169811321,
+    "new_rule_rate_last_decile": 0.08705882352941176,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "tora",
+       "vufoze"
+      ],
+      [
+       "sopo"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "sidezatatarbofuna",
+      "metrics": {
+       "generated": 9,
+       "true_positive": 3,
+       "precision": 0.3333333333333333,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 9,
+      "compatible": [
+       "sidezatatarbofunasogavu#",
+       "sidezatatarbofunatorul#",
+       "sidezatatarbofunazeribi#"
+      ]
+     },
+     {
+      "prefix": "sopotatarvasam",
+      "metrics": {
+       "generated": 10,
+       "true_positive": 2,
+       "precision": 0.2,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.8,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 10,
+      "compatible": [
+       "sopotatarvasambovi#",
+       "sopotatarvasamrimil#"
+      ]
+     },
+     {
+      "prefix": "toratatarlaguvu",
+      "metrics": {
+       "generated": 10,
+       "true_positive": 2,
+       "precision": 0.2,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.8,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 10,
+      "compatible": [
+       "toratatarlaguvubilolu#",
+       "toratatarlaguvufede#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 3,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 7.6220176219940186,
+    "precision": 0.32756132756132755,
+    "recall": 0.75,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6421356421356421,
+    "malformed_generation_rate": 0.030303030303030304,
+    "mean_completion_set_size": 9.0,
+    "decisions": 4240,
+    "new_rule_search_fraction": 0.28962264150943395,
+    "unsolved": 135,
+    "reuse_events": 3012,
+    "generalization_events": 71,
+    "generalization_rejected_counterexample": 463,
+    "active_rules": 1546,
+    "total_rules": 1617,
+    "internal_symbols": 605,
+    "reused_rules": 755,
+    "new_rule_rate_first_decile": 0.7405660377358491,
+    "new_rule_rate_last_decile": 0.10849056603773585,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba"
+      ],
+      [
+       "lugi"
+      ],
+      [
+       "nibi",
+       "notis",
+       "pefepi"
+      ],
+      [
+       "sokoso"
+      ],
+      [
+       "sukol",
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 0,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 4,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "banidivamdupu",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 4,
+       "precision": 0.36363636363636365,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.5454545454545454,
+       "malformed_generation_rate": 0.09090909090909091
+      },
+      "n_generated": 11,
+      "compatible": [
+       "banidivamdupubases#",
+       "banidivamdupukamubi#",
+       "banidivamdupunemezu#",
+       "banidivamdupunizi#"
+      ]
+     },
+     {
+      "prefix": "lugidivamgufeze",
+      "metrics": {
+       "generated": 7,
+       "true_positive": 2,
+       "precision": 0.2857142857142857,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7142857142857143,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 7,
+      "compatible": [
+       "lugidivamgufezefipafu#",
+       "lugidivamgufezeloze#"
+      ]
+     },
+     {
+      "prefix": "zukumdivammusita",
+      "metrics": {
+       "generated": 9,
+       "true_positive": 3,
+       "precision": 0.3333333333333333,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 9,
+      "compatible": [
+       "zukumdivammusitamake#",
+       "zukumdivammusitamupar#",
+       "zukumdivammusitarudu#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 4,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 7.795263051986694,
+    "precision": 0.3164502164502165,
+    "recall": 0.75,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6835497835497835,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 9.333333333333334,
+    "decisions": 4016,
+    "new_rule_search_fraction": 0.3159860557768924,
+    "unsolved": 113,
+    "reuse_events": 2747,
+    "generalization_events": 69,
+    "generalization_rejected_counterexample": 596,
+    "active_rules": 1649,
+    "total_rules": 1718,
+    "internal_symbols": 635,
+    "reused_rules": 751,
+    "new_rule_rate_first_decile": 0.743142144638404,
+    "new_rule_rate_last_decile": 0.1044776119402985,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba",
+       "sarun",
+       "vevufo",
+       "vuze"
+      ],
+      [
+       "ligim",
+       "nuzu",
+       "sidol"
+      ],
+      [
+       "vutabi"
+      ]
+     ],
+     "same_family_pairs_grouped": 2,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 11,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "nuzusupavirisi",
+      "metrics": {
+       "generated": 7,
+       "true_positive": 2,
+       "precision": 0.2857142857142857,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7142857142857143,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 7,
+      "compatible": [
+       "nuzusupavirisiforil#",
+       "nuzusupavirisitipe#"
+      ]
+     },
+     {
+      "prefix": "vutabisupavikiros",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 4,
+       "precision": 0.36363636363636365,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6363636363636364,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "vutabisupavikirosdutase#",
+       "vutabisupavikirosgitem#",
+       "vutabisupavikirosgosu#",
+       "vutabisupavikirostule#"
+      ]
+     },
+     {
+      "prefix": "vuzesupavidoge",
+      "metrics": {
+       "generated": 10,
+       "true_positive": 3,
+       "precision": 0.3,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 10,
+      "compatible": [
+       "vuzesupavidogelamun#",
+       "vuzesupavidogezade#",
+       "vuzesupavidogezenimo#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 5,
+    "n_train": 100
+   }
+  ],
+  "300": [
+   {
+    "train_seconds": 27.64087200164795,
+    "precision": 0.3434343434343434,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6565656565656566,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 11.666666666666666,
+    "decisions": 12950,
+    "new_rule_search_fraction": 0.19567567567567568,
+    "unsolved": 250,
+    "reuse_events": 10416,
+    "generalization_events": 176,
+    "generalization_rejected_counterexample": 4555,
+    "active_rules": 3052,
+    "total_rules": 3228,
+    "internal_symbols": 1062,
+    "reused_rules": 1370,
+    "new_rule_rate_first_decile": 0.5451737451737452,
+    "new_rule_rate_last_decile": 0.06177606177606178,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "kuful",
+       "nalum",
+       "pake",
+       "sipar",
+       "sires"
+      ],
+      [
+       "bufo",
+       "lige",
+       "rala"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 15,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "biposupafonisafu",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 4,
+       "precision": 0.36363636363636365,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6363636363636364,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "biposupafonisafudefi#",
+       "biposupafonisafufadura#",
+       "biposupafonisafupafe#",
+       "biposupafonisafuveton#"
+      ]
+     },
+     {
+      "prefix": "nalumpaforotibu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nalumpaforotibugabi#",
+       "nalumpaforotibukodati#",
+       "nalumpaforotibuvidega#",
+       "nalumpaforotibuzovo#"
+      ]
+     },
+     {
+      "prefix": "siparpafogusuka",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "siparpafogusukaburor#",
+       "siparpafogusukalukase#",
+       "siparpafogusukanetu#",
+       "siparpafogusukatifosi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 1,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 30.1070237159729,
+    "precision": 0.2686202686202686,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.5372405372405372,
+    "malformed_generation_rate": 0.19413919413919412,
+    "mean_completion_set_size": 15.666666666666666,
+    "decisions": 12268,
+    "new_rule_search_fraction": 0.2089175089664167,
+    "unsolved": 265,
+    "reuse_events": 9705,
+    "generalization_events": 190,
+    "generalization_rejected_counterexample": 3116,
+    "active_rules": 3030,
+    "total_rules": 3220,
+    "internal_symbols": 1034,
+    "reused_rules": 1427,
+    "new_rule_rate_first_decile": 0.5717781402936378,
+    "new_rule_rate_last_decile": 0.05623471882640587,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara",
+       "movibo",
+       "sunepi"
+      ],
+      [
+       "foter",
+       "norem"
+      ],
+      [
+       "kabol",
+       "sigen"
+      ],
+      [
+       "nirevu"
+      ]
+     ],
+     "same_family_pairs_grouped": 4,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 4,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "movibotofobebe",
+      "metrics": {
+       "generated": 21,
+       "true_positive": 4,
+       "precision": 0.19047619047619047,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.38095238095238093,
+       "malformed_generation_rate": 0.42857142857142855
+      },
+      "n_generated": 21,
+      "compatible": [
+       "movibotofobebegoban#",
+       "movibotofobeberuzu#",
+       "movibotofobebesazafa#",
+       "movibotofobebevusas#"
+      ]
+     },
+     {
+      "prefix": "noremtofosomoli",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "noremtofosomolineli#",
+       "noremtofosomolinorar#",
+       "noremtofosomolisutoge#",
+       "noremtofosomolizanen#"
+      ]
+     },
+     {
+      "prefix": "sunepitofopapi",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "sunepitofopapibilaza#",
+       "sunepitofopapilusen#",
+       "sunepitofopapimiso#",
+       "sunepitofopapitofa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 2,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 48.8569610118866,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 12854,
+    "new_rule_search_fraction": 0.20585031896685857,
+    "unsolved": 241,
+    "reuse_events": 10208,
+    "generalization_events": 192,
+    "generalization_rejected_counterexample": 4205,
+    "active_rules": 3184,
+    "total_rules": 3376,
+    "internal_symbols": 1092,
+    "reused_rules": 1447,
+    "new_rule_rate_first_decile": 0.5237354085603113,
+    "new_rule_rate_last_decile": 0.04665629860031104,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "sopo",
+       "tora",
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "sidezatatarbofuna",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sidezatatarbofunaleluna#",
+       "sidezatatarbofunasogavu#",
+       "sidezatatarbofunatorul#",
+       "sidezatatarbofunazeribi#"
+      ]
+     },
+     {
+      "prefix": "sopotatarvasam",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sopotatarvasambovi#",
+       "sopotatarvasamrimil#",
+       "sopotatarvasamtagu#",
+       "sopotatarvasamvisulu#"
+      ]
+     },
+     {
+      "prefix": "toratatarlaguvu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "toratatarlaguvubilolu#",
+       "toratatarlaguvubome#",
+       "toratatarlaguvufede#",
+       "toratatarlaguvusafo#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 3,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 26.700857162475586,
+    "precision": 0.2972582972582973,
+    "recall": 0.9166666666666666,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6551226551226551,
+    "malformed_generation_rate": 0.047619047619047616,
+    "mean_completion_set_size": 12.333333333333334,
+    "decisions": 12730,
+    "new_rule_search_fraction": 0.2002356637863315,
+    "unsolved": 257,
+    "reuse_events": 10181,
+    "generalization_events": 215,
+    "generalization_rejected_counterexample": 3214,
+    "active_rules": 3001,
+    "total_rules": 3216,
+    "internal_symbols": 1057,
+    "reused_rules": 1397,
+    "new_rule_rate_first_decile": 0.5420267085624509,
+    "new_rule_rate_last_decile": 0.06677140612725845,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba",
+       "lugi"
+      ],
+      [
+       "nibi",
+       "notis",
+       "pefepi",
+       "sukol",
+       "zukum"
+      ],
+      [
+       "sokoso"
+      ]
+     ],
+     "same_family_pairs_grouped": 2,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 9,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "banidivamdupu",
+      "metrics": {
+       "generated": 14,
+       "true_positive": 4,
+       "precision": 0.2857142857142857,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.5714285714285714,
+       "malformed_generation_rate": 0.14285714285714285
+      },
+      "n_generated": 14,
+      "compatible": [
+       "banidivamdupubases#",
+       "banidivamdupukamubi#",
+       "banidivamdupunemezu#",
+       "banidivamdupunizi#"
+      ]
+     },
+     {
+      "prefix": "lugidivamgufeze",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 3,
+       "precision": 0.2727272727272727,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7272727272727273,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "lugidivamgufezefipafu#",
+       "lugidivamgufezeloze#",
+       "lugidivamgufezepunabe#"
+      ]
+     },
+     {
+      "prefix": "zukumdivammusita",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "zukumdivammusitamake#",
+       "zukumdivammusitamupar#",
+       "zukumdivammusitarudu#",
+       "zukumdivammusitasidepi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 4,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 24.137693881988525,
+    "precision": 0.3131313131313131,
+    "recall": 0.9166666666666666,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6868686868686869,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 11.666666666666666,
+    "decisions": 12082,
+    "new_rule_search_fraction": 0.21263035921205098,
+    "unsolved": 245,
+    "reuse_events": 9513,
+    "generalization_events": 195,
+    "generalization_rejected_counterexample": 4779,
+    "active_rules": 3094,
+    "total_rules": 3289,
+    "internal_symbols": 1085,
+    "reused_rules": 1394,
+    "new_rule_rate_first_decile": 0.5761589403973509,
+    "new_rule_rate_last_decile": 0.06617038875103391,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "ligim",
+       "miba",
+       "nuzu",
+       "sarun",
+       "sidol",
+       "vevufo",
+       "vutabi",
+       "vuze"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "nuzusupavirisi",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 3,
+       "precision": 0.2727272727272727,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7272727272727273,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "nuzusupavirisiforil#",
+       "nuzusupavirisinotu#",
+       "nuzusupavirisitipe#"
+      ]
+     },
+     {
+      "prefix": "vutabisupavikiros",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vutabisupavikirosdutase#",
+       "vutabisupavikirosgitem#",
+       "vutabisupavikirosgosu#",
+       "vutabisupavikirostule#"
+      ]
+     },
+     {
+      "prefix": "vuzesupavidoge",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vuzesupavidogelamun#",
+       "vuzesupavidogezade#",
+       "vuzesupavidogezenimo#",
+       "vuzesupavidogezigipa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 5,
+    "n_train": 300
+   }
+  ],
+  "1000": [
+   {
+    "train_seconds": 115.6681809425354,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 42802,
+    "new_rule_search_fraction": 0.1115602074669408,
+    "unsolved": 500,
+    "reuse_events": 38027,
+    "generalization_events": 438,
+    "generalization_rejected_counterexample": 28478,
+    "active_rules": 5375,
+    "total_rules": 5813,
+    "internal_symbols": 1718,
+    "reused_rules": 2546,
+    "new_rule_rate_first_decile": 0.366588785046729,
+    "new_rule_rate_last_decile": 0.021957486568558747,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "kuful",
+       "lige",
+       "nalum",
+       "pake",
+       "rala",
+       "sipar",
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "biposupafonisafu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "biposupafonisafudefi#",
+       "biposupafonisafufadura#",
+       "biposupafonisafupafe#",
+       "biposupafonisafuveton#"
+      ]
+     },
+     {
+      "prefix": "nalumpaforotibu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nalumpaforotibugabi#",
+       "nalumpaforotibukodati#",
+       "nalumpaforotibuvidega#",
+       "nalumpaforotibuzovo#"
+      ]
+     },
+     {
+      "prefix": "siparpafogusuka",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "siparpafogusukaburor#",
+       "siparpafogusukalukase#",
+       "siparpafogusukanetu#",
+       "siparpafogusukatifosi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 1,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 113.43480515480042,
+    "precision": 0.2686202686202686,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.5372405372405372,
+    "malformed_generation_rate": 0.19413919413919412,
+    "mean_completion_set_size": 15.666666666666666,
+    "decisions": 41180,
+    "new_rule_search_fraction": 0.11694997571636717,
+    "unsolved": 535,
+    "reuse_events": 36364,
+    "generalization_events": 490,
+    "generalization_rejected_counterexample": 21821,
+    "active_rules": 5278,
+    "total_rules": 5768,
+    "internal_symbols": 1661,
+    "reused_rules": 2580,
+    "new_rule_rate_first_decile": 0.39120932491500726,
+    "new_rule_rate_last_decile": 0.018212724623603693,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara",
+       "kabol",
+       "movibo",
+       "sigen",
+       "sunepi"
+      ],
+      [
+       "foter",
+       "norem"
+      ],
+      [
+       "nirevu"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 11,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "movibotofobebe",
+      "metrics": {
+       "generated": 21,
+       "true_positive": 4,
+       "precision": 0.19047619047619047,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.38095238095238093,
+       "malformed_generation_rate": 0.42857142857142855
+      },
+      "n_generated": 21,
+      "compatible": [
+       "movibotofobebegoban#",
+       "movibotofobeberuzu#",
+       "movibotofobebesazafa#",
+       "movibotofobebevusas#"
+      ]
+     },
+     {
+      "prefix": "noremtofosomoli",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "noremtofosomolineli#",
+       "noremtofosomolinorar#",
+       "noremtofosomolisutoge#",
+       "noremtofosomolizanen#"
+      ]
+     },
+     {
+      "prefix": "sunepitofopapi",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "sunepitofopapibilaza#",
+       "sunepitofopapilusen#",
+       "sunepitofopapimiso#",
+       "sunepitofopapitofa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 2,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 112.83121705055237,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 42930,
+    "new_rule_search_fraction": 0.10710458886559515,
+    "unsolved": 455,
+    "reuse_events": 38332,
+    "generalization_events": 485,
+    "generalization_rejected_counterexample": 25929,
+    "active_rules": 5134,
+    "total_rules": 5619,
+    "internal_symbols": 1676,
+    "reused_rules": 2494,
+    "new_rule_rate_first_decile": 0.38155136268343814,
+    "new_rule_rate_last_decile": 0.015606801770323782,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "sopo",
+       "tora",
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "sidezatatarbofuna",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sidezatatarbofunaleluna#",
+       "sidezatatarbofunasogavu#",
+       "sidezatatarbofunatorul#",
+       "sidezatatarbofunazeribi#"
+      ]
+     },
+     {
+      "prefix": "sopotatarvasam",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sopotatarvasambovi#",
+       "sopotatarvasamrimil#",
+       "sopotatarvasamtagu#",
+       "sopotatarvasamvisulu#"
+      ]
+     },
+     {
+      "prefix": "toratatarlaguvu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "toratatarlaguvubilolu#",
+       "toratatarlaguvubome#",
+       "toratatarlaguvufede#",
+       "toratatarlaguvusafo#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 3,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 112.78033518791199,
+    "precision": 0.2803418803418803,
+    "recall": 0.8333333333333334,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6940170940170941,
+    "malformed_generation_rate": 0.025641025641025644,
+    "mean_completion_set_size": 11.666666666666666,
+    "decisions": 42628,
+    "new_rule_search_fraction": 0.10584592286759877,
+    "unsolved": 483,
+    "reuse_events": 38116,
+    "generalization_events": 483,
+    "generalization_rejected_counterexample": 20983,
+    "active_rules": 4953,
+    "total_rules": 5436,
+    "internal_symbols": 1608,
+    "reused_rules": 2514,
+    "new_rule_rate_first_decile": 0.37142186766776164,
+    "new_rule_rate_last_decile": 0.01595120806943467,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bani",
+       "bupuba",
+       "lugi"
+      ],
+      [
+       "nibi",
+       "notis",
+       "pefepi",
+       "sukol",
+       "zukum"
+      ],
+      [
+       "sokoso"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 10,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "banidivamdupu",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "banidivamdupubases#",
+       "banidivamdupukamubi#",
+       "banidivamdupunemezu#",
+       "banidivamdupunizi#"
+      ]
+     },
+     {
+      "prefix": "lugidivamgufeze",
+      "metrics": {
+       "generated": 10,
+       "true_positive": 2,
+       "precision": 0.2,
+       "recall": 0.5,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.8,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 10,
+      "compatible": [
+       "lugidivamgufezeloze#",
+       "lugidivamgufezepunabe#"
+      ]
+     },
+     {
+      "prefix": "zukumdivammusita",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "zukumdivammusitamake#",
+       "zukumdivammusitamupar#",
+       "zukumdivammusitarudu#",
+       "zukumdivammusitasidepi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 4,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 107.93070220947266,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 40088,
+    "new_rule_search_fraction": 0.11696767112352824,
+    "unsolved": 461,
+    "reuse_events": 35399,
+    "generalization_events": 503,
+    "generalization_rejected_counterexample": 29592,
+    "active_rules": 5204,
+    "total_rules": 5707,
+    "internal_symbols": 1651,
+    "reused_rules": 2557,
+    "new_rule_rate_first_decile": 0.4036926147704591,
+    "new_rule_rate_last_decile": 0.014966325767024195,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba",
+       "nuzu",
+       "sarun",
+       "sidol",
+       "vevufo",
+       "vutabi",
+       "vuze"
+      ],
+      [
+       "ligim"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "nuzusupavirisi",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nuzusupavirisiforil#",
+       "nuzusupavirisiganu#",
+       "nuzusupavirisinotu#",
+       "nuzusupavirisitipe#"
+      ]
+     },
+     {
+      "prefix": "vutabisupavikiros",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vutabisupavikirosdutase#",
+       "vutabisupavikirosgitem#",
+       "vutabisupavikirosgosu#",
+       "vutabisupavikirostule#"
+      ]
+     },
+     {
+      "prefix": "vuzesupavidoge",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vuzesupavidogelamun#",
+       "vuzesupavidogezade#",
+       "vuzesupavidogezenimo#",
+       "vuzesupavidogezigipa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 5,
+    "n_train": 1000
+   }
+  ],
+  "3000": [
+   {
+    "train_seconds": 400.4926767349243,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 128322,
+    "new_rule_search_fraction": 0.04921993111079939,
+    "unsolved": 691,
+    "reuse_events": 122006,
+    "generalization_events": 710,
+    "generalization_rejected_counterexample": 115619,
+    "active_rules": 6834,
+    "total_rules": 7544,
+    "internal_symbols": 2141,
+    "reused_rules": 3567,
+    "new_rule_rate_first_decile": 0.2421290523690773,
+    "new_rule_rate_last_decile": 0.0028052676692901114,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "lige"
+      ],
+      [
+       "kuful",
+       "nalum",
+       "pake",
+       "rala",
+       "sipar",
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 13,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "biposupafonisafu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "biposupafonisafudefi#",
+       "biposupafonisafufadura#",
+       "biposupafonisafupafe#",
+       "biposupafonisafuveton#"
+      ]
+     },
+     {
+      "prefix": "nalumpaforotibu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nalumpaforotibugabi#",
+       "nalumpaforotibukodati#",
+       "nalumpaforotibuvidega#",
+       "nalumpaforotibuzovo#"
+      ]
+     },
+     {
+      "prefix": "siparpafogusuka",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "siparpafogusukaburor#",
+       "siparpafogusukalukase#",
+       "siparpafogusukanetu#",
+       "siparpafogusukatifosi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 1,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 373.5921700000763,
+    "precision": 0.2771672771672771,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.5543345543345543,
+    "malformed_generation_rate": 0.16849816849816848,
+    "mean_completion_set_size": 15.333333333333334,
+    "decisions": 123828,
+    "new_rule_search_fraction": 0.05145847465839713,
+    "unsolved": 785,
+    "reuse_events": 117456,
+    "generalization_events": 758,
+    "generalization_rejected_counterexample": 88830,
+    "active_rules": 6622,
+    "total_rules": 7380,
+    "internal_symbols": 2003,
+    "reused_rules": 3580,
+    "new_rule_rate_first_decile": 0.26272007753190113,
+    "new_rule_rate_last_decile": 0.0027456997496567875,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "foter",
+       "gara",
+       "kabol",
+       "movibo",
+       "norem",
+       "sigen",
+       "sunepi"
+      ],
+      [
+       "nirevu"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "movibotofobebe",
+      "metrics": {
+       "generated": 21,
+       "true_positive": 4,
+       "precision": 0.19047619047619047,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.38095238095238093,
+       "malformed_generation_rate": 0.42857142857142855
+      },
+      "n_generated": 21,
+      "compatible": [
+       "movibotofobebegoban#",
+       "movibotofobeberuzu#",
+       "movibotofobebesazafa#",
+       "movibotofobebevusas#"
+      ]
+     },
+     {
+      "prefix": "noremtofosomoli",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "noremtofosomolineli#",
+       "noremtofosomolinorar#",
+       "noremtofosomolisutoge#",
+       "noremtofosomolizanen#"
+      ]
+     },
+     {
+      "prefix": "sunepitofopapi",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "sunepitofopapibilaza#",
+       "sunepitofopapilusen#",
+       "sunepitofopapimiso#",
+       "sunepitofopapitofa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 2,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 368.4564218521118,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 128968,
+    "new_rule_search_fraction": 0.04598039823832269,
+    "unsolved": 599,
+    "reuse_events": 123038,
+    "generalization_events": 694,
+    "generalization_rejected_counterexample": 111554,
+    "active_rules": 6401,
+    "total_rules": 7095,
+    "internal_symbols": 1985,
+    "reused_rules": 3388,
+    "new_rule_rate_first_decile": 0.24674317617866004,
+    "new_rule_rate_last_decile": 0.0032565712956501513,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "sopo",
+       "tora",
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "sidezatatarbofuna",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sidezatatarbofunaleluna#",
+       "sidezatatarbofunasogavu#",
+       "sidezatatarbofunatorul#",
+       "sidezatatarbofunazeribi#"
+      ]
+     },
+     {
+      "prefix": "sopotatarvasam",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sopotatarvasambovi#",
+       "sopotatarvasamrimil#",
+       "sopotatarvasamtagu#",
+       "sopotatarvasamvisulu#"
+      ]
+     },
+     {
+      "prefix": "toratatarlaguvu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "toratatarlaguvubilolu#",
+       "toratatarlaguvubome#",
+       "toratatarlaguvufede#",
+       "toratatarlaguvusafo#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 3,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 14973.034812927246,
+    "precision": 0.2972582972582973,
+    "recall": 0.9166666666666666,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6551226551226551,
+    "malformed_generation_rate": 0.047619047619047616,
+    "mean_completion_set_size": 12.333333333333334,
+    "decisions": 127872,
+    "new_rule_search_fraction": 0.04598348348348348,
+    "unsolved": 661,
+    "reuse_events": 121992,
+    "generalization_events": 699,
+    "generalization_rejected_counterexample": 89940,
+    "active_rules": 6221,
+    "total_rules": 6920,
+    "internal_symbols": 1940,
+    "reused_rules": 3418,
+    "new_rule_rate_first_decile": 0.24329397043872683,
+    "new_rule_rate_last_decile": 0.0025023459493274947,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bani",
+       "bupuba",
+       "lugi"
+      ],
+      [
+       "nibi",
+       "notis",
+       "pefepi",
+       "sukol",
+       "zukum"
+      ],
+      [
+       "sokoso"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 10,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "banidivamdupu",
+      "metrics": {
+       "generated": 14,
+       "true_positive": 4,
+       "precision": 0.2857142857142857,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.5714285714285714,
+       "malformed_generation_rate": 0.14285714285714285
+      },
+      "n_generated": 14,
+      "compatible": [
+       "banidivamdupubases#",
+       "banidivamdupukamubi#",
+       "banidivamdupunemezu#",
+       "banidivamdupunizi#"
+      ]
+     },
+     {
+      "prefix": "lugidivamgufeze",
+      "metrics": {
+       "generated": 11,
+       "true_positive": 3,
+       "precision": 0.2727272727272727,
+       "recall": 0.75,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.7272727272727273,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 11,
+      "compatible": [
+       "lugidivamgufezefipafu#",
+       "lugidivamgufezeloze#",
+       "lugidivamgufezepunabe#"
+      ]
+     },
+     {
+      "prefix": "zukumdivammusita",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "zukumdivammusitamake#",
+       "zukumdivammusitamupar#",
+       "zukumdivammusitarudu#",
+       "zukumdivammusitasidepi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 4,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 526.9609401226044,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 119726,
+    "new_rule_search_fraction": 0.05231111036867514,
+    "unsolved": 699,
+    "reuse_events": 113463,
+    "generalization_events": 808,
+    "generalization_rejected_counterexample": 121423,
+    "active_rules": 6575,
+    "total_rules": 7383,
+    "internal_symbols": 2030,
+    "reused_rules": 3514,
+    "new_rule_rate_first_decile": 0.2661209488807217,
+    "new_rule_rate_last_decile": 0.0028397227094295496,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba",
+       "nuzu",
+       "sarun",
+       "sidol",
+       "vevufo",
+       "vutabi",
+       "vuze"
+      ],
+      [
+       "ligim"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "nuzusupavirisi",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nuzusupavirisiforil#",
+       "nuzusupavirisiganu#",
+       "nuzusupavirisinotu#",
+       "nuzusupavirisitipe#"
+      ]
+     },
+     {
+      "prefix": "vutabisupavikiros",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vutabisupavikirosdutase#",
+       "vutabisupavikirosgitem#",
+       "vutabisupavikirosgosu#",
+       "vutabisupavikirostule#"
+      ]
+     },
+     {
+      "prefix": "vuzesupavidoge",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vuzesupavidogelamun#",
+       "vuzesupavidogezade#",
+       "vuzesupavidogezenimo#",
+       "vuzesupavidogezigipa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 5,
+    "n_train": 3000
+   }
+  ],
+  "10000": [
+   {
+    "train_seconds": 1344.8605828285217,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 428012,
+    "new_rule_search_fraction": 0.015751894806687664,
+    "unsolved": 792,
+    "reuse_events": 421270,
+    "generalization_events": 811,
+    "generalization_rejected_counterexample": 441884,
+    "active_rules": 7134,
+    "total_rules": 7945,
+    "internal_symbols": 2218,
+    "reused_rules": 3886,
+    "new_rule_rate_first_decile": 0.1270063783556459,
+    "new_rule_rate_last_decile": 0.00018690715387131442,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "lige"
+      ],
+      [
+       "kuful",
+       "nalum",
+       "pake",
+       "rala",
+       "sipar",
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 13,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "biposupafonisafu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "biposupafonisafudefi#",
+       "biposupafonisafufadura#",
+       "biposupafonisafupafe#",
+       "biposupafonisafuveton#"
+      ]
+     },
+     {
+      "prefix": "nalumpaforotibu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nalumpaforotibugabi#",
+       "nalumpaforotibukodati#",
+       "nalumpaforotibuvidega#",
+       "nalumpaforotibuzovo#"
+      ]
+     },
+     {
+      "prefix": "siparpafogusuka",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "siparpafogusukaburor#",
+       "siparpafogusukalukase#",
+       "siparpafogusukanetu#",
+       "siparpafogusukatifosi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 1,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 1076.6406788825989,
+    "precision": 0.2716462281679673,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.5432924563359346,
+    "malformed_generation_rate": 0.18506131549609814,
+    "mean_completion_set_size": 16.0,
+    "decisions": 412010,
+    "new_rule_search_fraction": 0.01665978981092692,
+    "unsolved": 900,
+    "reuse_events": 405146,
+    "generalization_events": 842,
+    "generalization_rejected_counterexample": 351656,
+    "active_rules": 7043,
+    "total_rules": 7885,
+    "internal_symbols": 2147,
+    "reused_rules": 3923,
+    "new_rule_rate_first_decile": 0.13273949661415985,
+    "new_rule_rate_last_decile": 9.708502220819883e-05,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "foter",
+       "gara",
+       "kabol",
+       "movibo",
+       "norem",
+       "sigen",
+       "sunepi"
+      ],
+      [
+       "nirevu"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "movibotofobebe",
+      "metrics": {
+       "generated": 23,
+       "true_positive": 4,
+       "precision": 0.17391304347826086,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.34782608695652173,
+       "malformed_generation_rate": 0.4782608695652174
+      },
+      "n_generated": 23,
+      "compatible": [
+       "movibotofobebegoban#",
+       "movibotofobeberuzu#",
+       "movibotofobebesazafa#",
+       "movibotofobebevusas#"
+      ]
+     },
+     {
+      "prefix": "noremtofosomoli",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "noremtofosomolineli#",
+       "noremtofosomolinorar#",
+       "noremtofosomolisutoge#",
+       "noremtofosomolizanen#"
+      ]
+     },
+     {
+      "prefix": "sunepitofopapi",
+      "metrics": {
+       "generated": 13,
+       "true_positive": 4,
+       "precision": 0.3076923076923077,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6153846153846154,
+       "malformed_generation_rate": 0.07692307692307693
+      },
+      "n_generated": 13,
+      "compatible": [
+       "sunepitofopapibilaza#",
+       "sunepitofopapilusen#",
+       "sunepitofopapimiso#",
+       "sunepitofopapitofa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 2,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 1267.0321590900421,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 429000,
+    "new_rule_search_fraction": 0.014526806526806527,
+    "unsolved": 641,
+    "reuse_events": 422768,
+    "generalization_events": 774,
+    "generalization_rejected_counterexample": 422228,
+    "active_rules": 6652,
+    "total_rules": 7426,
+    "internal_symbols": 2066,
+    "reused_rules": 3672,
+    "new_rule_rate_first_decile": 0.1196037296037296,
+    "new_rule_rate_last_decile": 4.662004662004662e-05,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "sopo",
+       "tora",
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 9,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 27,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "sidezatatarbofuna",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sidezatatarbofunaleluna#",
+       "sidezatatarbofunasogavu#",
+       "sidezatatarbofunatorul#",
+       "sidezatatarbofunazeribi#"
+      ]
+     },
+     {
+      "prefix": "sopotatarvasam",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "sopotatarvasambovi#",
+       "sopotatarvasamrimil#",
+       "sopotatarvasamtagu#",
+       "sopotatarvasamvisulu#"
+      ]
+     },
+     {
+      "prefix": "toratatarlaguvu",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "toratatarlaguvubilolu#",
+       "toratatarlaguvubome#",
+       "toratatarlaguvufede#",
+       "toratatarlaguvusafo#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 3,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 16018.658297777176,
+    "precision": 0.31746031746031744,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6349206349206349,
+    "malformed_generation_rate": 0.047619047619047616,
+    "mean_completion_set_size": 12.666666666666666,
+    "decisions": 425378,
+    "new_rule_search_fraction": 0.014641095684309014,
+    "unsolved": 724,
+    "reuse_events": 419150,
+    "generalization_events": 796,
+    "generalization_rejected_counterexample": 360711,
+    "active_rules": 6483,
+    "total_rules": 7279,
+    "internal_symbols": 2017,
+    "reused_rules": 3667,
+    "new_rule_rate_first_decile": 0.11980158450290336,
+    "new_rule_rate_last_decile": 0.00011754196248060558,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "bani",
+       "bupuba",
+       "lugi",
+       "nibi",
+       "notis",
+       "pefepi",
+       "sukol",
+       "zukum"
+      ],
+      [
+       "sokoso"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "banidivamdupu",
+      "metrics": {
+       "generated": 14,
+       "true_positive": 4,
+       "precision": 0.2857142857142857,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.5714285714285714,
+       "malformed_generation_rate": 0.14285714285714285
+      },
+      "n_generated": 14,
+      "compatible": [
+       "banidivamdupubases#",
+       "banidivamdupukamubi#",
+       "banidivamdupunemezu#",
+       "banidivamdupunizi#"
+      ]
+     },
+     {
+      "prefix": "lugidivamgufeze",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "lugidivamgufezefipafu#",
+       "lugidivamgufezeloze#",
+       "lugidivamgufezepunabe#",
+       "lugidivamgufezevori#"
+      ]
+     },
+     {
+      "prefix": "zukumdivammusita",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "zukumdivammusitamake#",
+       "zukumdivammusitamupar#",
+       "zukumdivammusitarudu#",
+       "zukumdivammusitasidepi#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 4,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 2870.0332930088043,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "exact_set_accuracy": 0.0,
+    "incompatible_generation_rate": 0.6666666666666666,
+    "malformed_generation_rate": 0.0,
+    "mean_completion_set_size": 12.0,
+    "decisions": 399348,
+    "new_rule_search_fraction": 0.016637118503160152,
+    "unsolved": 788,
+    "reuse_events": 392704,
+    "generalization_events": 887,
+    "generalization_rejected_counterexample": 497511,
+    "active_rules": 6858,
+    "total_rules": 7745,
+    "internal_symbols": 2099,
+    "reused_rules": 3816,
+    "new_rule_rate_first_decile": 0.13549857264486403,
+    "new_rule_rate_last_decile": 0.00010016276449229998,
+    "active_generalized_with_contradictions": 0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba",
+       "nuzu",
+       "sarun",
+       "sidol",
+       "vevufo",
+       "vutabi",
+       "vuze"
+      ],
+      [
+       "ligim"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "family_exclusive_structures": {
+      "rules_applied": 0,
+      "generalized_rules_applied": 0,
+      "internal_rules_applied": 0,
+      "internal_symbols_in_views": 0,
+      "internal_symbols_active_at_verb": 0
+     }
+    },
+    "heldout": [
+     {
+      "prefix": "nuzusupavirisi",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "nuzusupavirisiforil#",
+       "nuzusupavirisiganu#",
+       "nuzusupavirisinotu#",
+       "nuzusupavirisitipe#"
+      ]
+     },
+     {
+      "prefix": "vutabisupavikiros",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vutabisupavikirosdutase#",
+       "vutabisupavikirosgitem#",
+       "vutabisupavikirosgosu#",
+       "vutabisupavikirostule#"
+      ]
+     },
+     {
+      "prefix": "vuzesupavidoge",
+      "metrics": {
+       "generated": 12,
+       "true_positive": 4,
+       "precision": 0.3333333333333333,
+       "recall": 1.0,
+       "exact_set_accuracy": 0.0,
+       "incompatible_generation_rate": 0.6666666666666666,
+       "malformed_generation_rate": 0.0
+      },
+      "n_generated": 12,
+      "compatible": [
+       "vuzesupavidogelamun#",
+       "vuzesupavidogezade#",
+       "vuzesupavidogezenimo#",
+       "vuzesupavidogezigipa#"
+      ]
+     }
+    ],
+    "cheat_control_problems": [],
+    "seed": 5,
+    "n_train": 10000
+   }
+  ]
+ },
+ "transformer": {
+  "100": [
+   {
+    "train_seconds": 49.43444204330444,
+    "parameters": 107008,
+    "best_val_step": 300,
+    "train_next_char_accuracy": 0.8386796838679684,
+    "final_train_next_char_accuracy": 0.905625290562529,
+    "train_ceiling": 0.9084146908414691,
+    "fit_fraction_of_ceiling": 0.9969293756397134,
+    "val_loss": 1.2430872917175293,
+    "val_next_char_accuracy": 0.6380709482958498,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.25,
+    "pairwise_family_accuracy": 0.3333333333333333,
+    "probability_mass_correct_family": 0.20747895865276642,
+    "mean_rank_correct": 7.833333333333333,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "kuful"
+      ],
+      [
+       "bufo"
+      ],
+      [
+       "lige",
+       "rala"
+      ],
+      [
+       "nalum"
+      ],
+      [
+       "pake"
+      ],
+      [
+       "sipar",
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 1,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 2,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 12,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.4166666666666667,
+      "seen_pairwise_family_accuracy": 0.5494791666666666,
+      "seen_probability_mass_correct_family": 0.5050339300234651,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.25,
+      "heldout_pairwise_family_accuracy": 0.3333333333333333,
+      "heldout_probability_mass_correct_family": 0.20747895865276642,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "malformed"
+    ],
+    "seed": 1,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 46.46874403953552,
+    "parameters": 107008,
+    "best_val_step": 200,
+    "train_next_char_accuracy": 0.6696252465483234,
+    "final_train_next_char_accuracy": 0.9013806706114399,
+    "train_ceiling": 0.9013806706114399,
+    "fit_fraction_of_ceiling": 1.0,
+    "val_loss": 1.373345136642456,
+    "val_next_char_accuracy": 0.549111549851925,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.4166666666666667,
+    "pairwise_family_accuracy": 0.4791666666666667,
+    "probability_mass_correct_family": 0.43690811563712845,
+    "mean_rank_correct": 6.666666666666667,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara"
+      ],
+      [
+       "foter"
+      ],
+      [
+       "kabol",
+       "norem",
+       "sigen"
+      ],
+      [
+       "movibo",
+       "nirevu",
+       "sunepi"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 4,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 14,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.4479166666666667,
+      "seen_pairwise_family_accuracy": 0.609375,
+      "seen_probability_mass_correct_family": 0.5321356823094348,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.4166666666666667,
+      "heldout_pairwise_family_accuracy": 0.4791666666666667,
+      "heldout_probability_mass_correct_family": 0.43690811563712845,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "malformed",
+     "malformed"
+    ],
+    "seed": 2,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 49.888882875442505,
+    "parameters": 107008,
+    "best_val_step": 200,
+    "train_next_char_accuracy": 0.6889726672950047,
+    "final_train_next_char_accuracy": 0.9024505183788878,
+    "train_ceiling": 0.9048067860508954,
+    "fit_fraction_of_ceiling": 0.9973958333333333,
+    "val_loss": 1.380289912223816,
+    "val_next_char_accuracy": 0.5439831104855736,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.25,
+    "pairwise_family_accuracy": 0.4583333333333333,
+    "probability_mass_correct_family": 0.28697416176626184,
+    "mean_rank_correct": 6.833333333333333,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove",
+       "deda",
+       "saku",
+       "sideza",
+       "sisul",
+       "sopo",
+       "tora"
+      ],
+      [
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 21,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 9,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.3125,
+      "seen_pairwise_family_accuracy": 0.47265625,
+      "seen_probability_mass_correct_family": 0.3485832999751315,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.25,
+      "heldout_pairwise_family_accuracy": 0.4583333333333333,
+      "heldout_probability_mass_correct_family": 0.28697416176626184,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "malformed",
+     "malformed",
+     "malformed"
+    ],
+    "seed": 3,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 47.92068815231323,
+    "parameters": 107008,
+    "best_val_step": 200,
+    "train_next_char_accuracy": 0.680188679245283,
+    "final_train_next_char_accuracy": 0.9023584905660378,
+    "train_ceiling": 0.9028301886792452,
+    "fit_fraction_of_ceiling": 0.9994775339602927,
+    "val_loss": 1.3769774436950684,
+    "val_next_char_accuracy": 0.5489130434782609,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.3333333333333333,
+    "pairwise_family_accuracy": 0.46875,
+    "probability_mass_correct_family": 0.2826528773480493,
+    "mean_rank_correct": 6.75,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba"
+      ],
+      [
+       "lugi"
+      ],
+      [
+       "nibi"
+      ],
+      [
+       "notis"
+      ],
+      [
+       "pefepi",
+       "sokoso"
+      ],
+      [
+       "sukol",
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 0,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 2,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 13,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.40625,
+      "seen_pairwise_family_accuracy": 0.5807291666666666,
+      "seen_probability_mass_correct_family": 0.4573422200015131,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.3333333333333333,
+      "heldout_pairwise_family_accuracy": 0.46875,
+      "heldout_probability_mass_correct_family": 0.28265287734804934,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "malformed",
+     "incompatible",
+     "malformed"
+    ],
+    "seed": 4,
+    "n_train": 100
+   },
+   {
+    "train_seconds": 43.23776173591614,
+    "parameters": 107008,
+    "best_val_step": 200,
+    "train_next_char_accuracy": 0.6937250996015937,
+    "final_train_next_char_accuracy": 0.8939243027888446,
+    "train_ceiling": 0.8969123505976095,
+    "fit_fraction_of_ceiling": 0.9966685174902832,
+    "val_loss": 1.4022865295410156,
+    "val_next_char_accuracy": 0.5451127819548872,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.16666666666666666,
+    "pairwise_family_accuracy": 0.3333333333333333,
+    "probability_mass_correct_family": 0.08326757172915424,
+    "mean_rank_correct": 7.833333333333333,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "ligim"
+      ],
+      [
+       "miba",
+       "nuzu",
+       "vuze"
+      ],
+      [
+       "sarun"
+      ],
+      [
+       "sidol"
+      ],
+      [
+       "vevufo",
+       "vutabi"
+      ]
+     ],
+     "same_family_pairs_grouped": 1,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 4,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 15,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.4166666666666667,
+      "seen_pairwise_family_accuracy": 0.56640625,
+      "seen_probability_mass_correct_family": 0.4590653338777431,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.16666666666666666,
+      "heldout_pairwise_family_accuracy": 0.3333333333333333,
+      "heldout_probability_mass_correct_family": 0.08326757172915424,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "malformed",
+     "malformed",
+     "malformed"
+    ],
+    "seed": 5,
+    "n_train": 100
+   }
+  ],
+  "300": [
+   {
+    "train_seconds": 75.47136306762695,
+    "parameters": 107008,
+    "best_val_step": 500,
+    "train_next_char_accuracy": 0.7939768339768339,
+    "final_train_next_char_accuracy": 0.8867953667953667,
+    "train_ceiling": 0.8884942084942085,
+    "fit_fraction_of_ceiling": 0.9980879541108987,
+    "val_loss": 0.8257936239242554,
+    "val_next_char_accuracy": 0.7076281010897287,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.08333333333333333,
+    "pairwise_family_accuracy": 0.16666666666666666,
+    "probability_mass_correct_family": 0.14501219222827613,
+    "mean_rank_correct": 9.166666666666666,
+    "probe": {
+     "groups": [
+      [
+       "biposu"
+      ],
+      [
+       "bufo"
+      ],
+      [
+       "kuful"
+      ],
+      [
+       "lige",
+       "pake"
+      ],
+      [
+       "nalum"
+      ],
+      [
+       "rala"
+      ],
+      [
+       "sipar"
+      ],
+      [
+       "sires"
+      ]
+     ],
+     "same_family_pairs_grouped": 1,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 20,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.041666666666666664,
+      "seen_recall_at_4": 0.625,
+      "seen_pairwise_family_accuracy": 0.7747395833333334,
+      "seen_probability_mass_correct_family": 0.5867012193015931,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.08333333333333333,
+      "heldout_pairwise_family_accuracy": 0.16666666666666666,
+      "heldout_probability_mass_correct_family": 0.14501219222827613,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 1,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 84.63338685035706,
+    "parameters": 107008,
+    "best_val_step": 500,
+    "train_next_char_accuracy": 0.7743723508314314,
+    "final_train_next_char_accuracy": 0.8790348875122269,
+    "train_ceiling": 0.8813172481252037,
+    "fit_fraction_of_ceiling": 0.9974102848686645,
+    "val_loss": 0.9218873977661133,
+    "val_next_char_accuracy": 0.6799111549851925,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.25,
+    "pairwise_family_accuracy": 0.3958333333333333,
+    "probability_mass_correct_family": 0.2222956673589003,
+    "mean_rank_correct": 7.333333333333333,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara"
+      ],
+      [
+       "foter",
+       "kabol",
+       "norem"
+      ],
+      [
+       "movibo"
+      ],
+      [
+       "nirevu"
+      ],
+      [
+       "sigen"
+      ],
+      [
+       "sunepi"
+      ]
+     ],
+     "same_family_pairs_grouped": 4,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 1,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 21,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.125,
+      "seen_recall_at_4": 0.7083333333333334,
+      "seen_pairwise_family_accuracy": 0.8190104166666666,
+      "seen_probability_mass_correct_family": 0.7669184767132754,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.25,
+      "heldout_pairwise_family_accuracy": 0.3958333333333333,
+      "heldout_probability_mass_correct_family": 0.2222956673589003,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 2,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 56.23100686073303,
+    "parameters": 107008,
+    "best_val_step": 500,
+    "train_next_char_accuracy": 0.7658316477361132,
+    "final_train_next_char_accuracy": 0.8836159950210052,
+    "train_ceiling": 0.8845495565582698,
+    "fit_fraction_of_ceiling": 0.9989445910290238,
+    "val_loss": 0.8921061754226685,
+    "val_next_char_accuracy": 0.680037532254281,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.16666666666666666,
+    "pairwise_family_accuracy": 0.23958333333333334,
+    "probability_mass_correct_family": 0.07714990817651528,
+    "mean_rank_correct": 8.583333333333334,
+    "probe": {
+     "groups": [
+      [
+       "bime"
+      ],
+      [
+       "bunove"
+      ],
+      [
+       "deda"
+      ],
+      [
+       "saku"
+      ],
+      [
+       "sideza"
+      ],
+      [
+       "sisul"
+      ],
+      [
+       "sopo"
+      ],
+      [
+       "tora"
+      ],
+      [
+       "vufoze"
+      ]
+     ],
+     "same_family_pairs_grouped": 0,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 16,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.0,
+      "seen_recall_at_4": 0.5208333333333334,
+      "seen_pairwise_family_accuracy": 0.6432291666666666,
+      "seen_probability_mass_correct_family": 0.5045865550989171,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.16666666666666666,
+      "heldout_pairwise_family_accuracy": 0.23958333333333334,
+      "heldout_probability_mass_correct_family": 0.07714990817651528,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 3,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 54.5372679233551,
+    "parameters": 107008,
+    "best_val_step": 600,
+    "train_next_char_accuracy": 0.7935585231736056,
+    "final_train_next_char_accuracy": 0.8755695208169678,
+    "train_ceiling": 0.8818538884524745,
+    "fit_fraction_of_ceiling": 0.9928736860858721,
+    "val_loss": 0.8554215431213379,
+    "val_next_char_accuracy": 0.6965973534971645,
+    "top4_exact_family_accuracy": 0.3333333333333333,
+    "recall_at_4": 0.3333333333333333,
+    "pairwise_family_accuracy": 0.34375,
+    "probability_mass_correct_family": 0.31388310133363667,
+    "mean_rank_correct": 7.75,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba",
+       "pefepi"
+      ],
+      [
+       "lugi",
+       "nibi"
+      ],
+      [
+       "notis",
+       "sokoso"
+      ],
+      [
+       "sukol",
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 1,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 22,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.2916666666666667,
+      "seen_recall_at_4": 0.7604166666666666,
+      "seen_pairwise_family_accuracy": 0.8880208333333334,
+      "seen_probability_mass_correct_family": 0.8158896204246379,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.3333333333333333,
+      "heldout_recall_at_4": 0.3333333333333333,
+      "heldout_pairwise_family_accuracy": 0.34375,
+      "heldout_probability_mass_correct_family": 0.31388310133363667,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "compatible",
+     "incompatible"
+    ],
+    "seed": 4,
+    "n_train": 300
+   },
+   {
+    "train_seconds": 51.81490993499756,
+    "parameters": 107008,
+    "best_val_step": 500,
+    "train_next_char_accuracy": 0.7667604701208409,
+    "final_train_next_char_accuracy": 0.8708823042542625,
+    "train_ceiling": 0.8753517629531534,
+    "fit_fraction_of_ceiling": 0.994894099848714,
+    "val_loss": 0.9742292165756226,
+    "val_next_char_accuracy": 0.662406015037594,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.25,
+    "pairwise_family_accuracy": 0.2604166666666667,
+    "probability_mass_correct_family": 0.08928624169414417,
+    "mean_rank_correct": 8.416666666666666,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "nuzu"
+      ],
+      [
+       "ligim",
+       "vevufo"
+      ],
+      [
+       "miba"
+      ],
+      [
+       "sarun",
+       "sidol"
+      ],
+      [
+       "vutabi"
+      ],
+      [
+       "vuze"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 22,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.4166666666666667,
+      "seen_recall_at_4": 0.7916666666666666,
+      "seen_pairwise_family_accuracy": 0.8489583333333334,
+      "seen_probability_mass_correct_family": 0.8038937944873138,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.25,
+      "heldout_pairwise_family_accuracy": 0.2604166666666667,
+      "heldout_probability_mass_correct_family": 0.08928624169414419,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 5,
+    "n_train": 300
+   }
+  ],
+  "1000": [
+   {
+    "train_seconds": 65.80151915550232,
+    "parameters": 107008,
+    "best_val_step": 2600,
+    "train_next_char_accuracy": 0.8237465538993505,
+    "final_train_next_char_accuracy": 0.8250081771879819,
+    "train_ceiling": 0.8613148918274847,
+    "fit_fraction_of_ceiling": 0.9578473390115555,
+    "val_loss": 0.5539411306381226,
+    "val_next_char_accuracy": 0.7797356828193832,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.3333333333333333,
+    "pairwise_family_accuracy": 0.4270833333333333,
+    "probability_mass_correct_family": 0.3989688242954486,
+    "mean_rank_correct": 7.083333333333333,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "kuful"
+      ],
+      [
+       "lige",
+       "pake"
+      ],
+      [
+       "nalum"
+      ],
+      [
+       "rala",
+       "sires"
+      ],
+      [
+       "sipar"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 1,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9923801968765581,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.3333333333333333,
+      "heldout_pairwise_family_accuracy": 0.4270833333333333,
+      "heldout_probability_mass_correct_family": 0.39896882429544855,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "compatible",
+     "compatible",
+     "incompatible"
+    ],
+    "seed": 1,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 75.04020190238953,
+    "parameters": 107008,
+    "best_val_step": 2600,
+    "train_next_char_accuracy": 0.8157843613404565,
+    "final_train_next_char_accuracy": 0.8209324915007286,
+    "train_ceiling": 0.8550267119961146,
+    "fit_fraction_of_ceiling": 0.9601249644987221,
+    "val_loss": 0.5933260917663574,
+    "val_next_char_accuracy": 0.7625863770977295,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.14583333333333334,
+    "probability_mass_correct_family": 0.03161249014298636,
+    "mean_rank_correct": 9.333333333333334,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara"
+      ],
+      [
+       "foter",
+       "kabol"
+      ],
+      [
+       "movibo"
+      ],
+      [
+       "nirevu",
+       "sigen"
+      ],
+      [
+       "norem"
+      ],
+      [
+       "sunepi"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9968768314911484,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.14583333333333334,
+      "heldout_probability_mass_correct_family": 0.03161249014298636,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 2,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 66.5499939918518,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.8255299324481714,
+    "final_train_next_char_accuracy": 0.8251106452364314,
+    "train_ceiling": 0.8591194968553459,
+    "fit_fraction_of_ceiling": 0.9604142942356705,
+    "val_loss": 0.5864561200141907,
+    "val_next_char_accuracy": 0.7654234107436078,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.13541666666666666,
+    "probability_mass_correct_family": 0.020792647917630677,
+    "mean_rank_correct": 9.416666666666666,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove"
+      ],
+      [
+       "deda",
+       "saku"
+      ],
+      [
+       "sideza"
+      ],
+      [
+       "sisul",
+       "vufoze"
+      ],
+      [
+       "sopo"
+      ],
+      [
+       "tora"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 0.875,
+      "seen_recall_at_4": 0.96875,
+      "seen_pairwise_family_accuracy": 0.9947916666666666,
+      "seen_probability_mass_correct_family": 0.9514462044646635,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.13541666666666666,
+      "heldout_probability_mass_correct_family": 0.020792647917630677,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 3,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 67.0437080860138,
+    "parameters": 107008,
+    "best_val_step": 2600,
+    "train_next_char_accuracy": 0.8149573050577086,
+    "final_train_next_char_accuracy": 0.8226517781739702,
+    "train_ceiling": 0.8562447217791124,
+    "fit_fraction_of_ceiling": 0.9607671232876712,
+    "val_loss": 0.5547845363616943,
+    "val_next_char_accuracy": 0.7698487712665406,
+    "top4_exact_family_accuracy": 0.3333333333333333,
+    "recall_at_4": 0.3333333333333333,
+    "pairwise_family_accuracy": 0.3541666666666667,
+    "probability_mass_correct_family": 0.30442381420438414,
+    "mean_rank_correct": 7.666666666666667,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba",
+       "pefepi"
+      ],
+      [
+       "lugi",
+       "nibi",
+       "sukol"
+      ],
+      [
+       "notis",
+       "sokoso"
+      ],
+      [
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 1,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9949394827969368,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.3333333333333333,
+      "heldout_recall_at_4": 0.3333333333333333,
+      "heldout_pairwise_family_accuracy": 0.3541666666666667,
+      "heldout_probability_mass_correct_family": 0.30442381420438414,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "compatible",
+     "incompatible"
+    ],
+    "seed": 4,
+    "n_train": 1000
+   },
+   {
+    "train_seconds": 60.43486189842224,
+    "parameters": 107008,
+    "best_val_step": 2300,
+    "train_next_char_accuracy": 0.8034324486130513,
+    "final_train_next_char_accuracy": 0.8095190580722411,
+    "train_ceiling": 0.8471861903811615,
+    "fit_fraction_of_ceiling": 0.9555385430775573,
+    "val_loss": 0.5947585701942444,
+    "val_next_char_accuracy": 0.7478696741854637,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.3125,
+    "probability_mass_correct_family": 0.0501307766275312,
+    "mean_rank_correct": 8.0,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba"
+      ],
+      [
+       "ligim",
+       "vevufo"
+      ],
+      [
+       "nuzu"
+      ],
+      [
+       "sarun",
+       "sidol"
+      ],
+      [
+       "vutabi"
+      ],
+      [
+       "vuze"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9865300544682897,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.3125,
+      "heldout_probability_mass_correct_family": 0.0501307766275312,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 5,
+    "n_train": 1000
+   }
+  ],
+  "3000": [
+   {
+    "train_seconds": 71.38203191757202,
+    "parameters": 107008,
+    "best_val_step": 2800,
+    "train_next_char_accuracy": 0.79507800688892,
+    "final_train_next_char_accuracy": 0.7984445379591963,
+    "train_ceiling": 0.8352581786443478,
+    "fit_fraction_of_ceiling": 0.9559254352409919,
+    "val_loss": 0.48008495569229126,
+    "val_next_char_accuracy": 0.7848365406909343,
+    "top4_exact_family_accuracy": 0.3333333333333333,
+    "recall_at_4": 0.5833333333333334,
+    "pairwise_family_accuracy": 0.6458333333333334,
+    "probability_mass_correct_family": 0.5691083241023643,
+    "mean_rank_correct": 5.333333333333333,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "kuful"
+      ],
+      [
+       "lige",
+       "pake"
+      ],
+      [
+       "nalum",
+       "rala",
+       "sires"
+      ],
+      [
+       "sipar"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 2,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 2,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.993801618548391,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.3333333333333333,
+      "heldout_recall_at_4": 0.5833333333333334,
+      "heldout_pairwise_family_accuracy": 0.6458333333333334,
+      "heldout_probability_mass_correct_family": 0.5691083241023643,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "compatible",
+     "compatible",
+     "incompatible"
+    ],
+    "seed": 1,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 71.58880090713501,
+    "parameters": 107008,
+    "best_val_step": 3000,
+    "train_next_char_accuracy": 0.7917756888587395,
+    "final_train_next_char_accuracy": 0.7917756888587395,
+    "train_ceiling": 0.8287463255483413,
+    "fit_fraction_of_ceiling": 0.955389682524215,
+    "val_loss": 0.5161404013633728,
+    "val_next_char_accuracy": 0.7751727541954591,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.17708333333333334,
+    "probability_mass_correct_family": 0.035542949945732955,
+    "mean_rank_correct": 9.083333333333334,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara"
+      ],
+      [
+       "foter",
+       "kabol"
+      ],
+      [
+       "movibo"
+      ],
+      [
+       "nirevu",
+       "sigen"
+      ],
+      [
+       "norem"
+      ],
+      [
+       "sunepi"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9956037320753294,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.17708333333333334,
+      "heldout_probability_mass_correct_family": 0.03554294994573295,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 2,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 72.39681196212769,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.796476645369394,
+    "final_train_next_char_accuracy": 0.7988338192419825,
+    "train_ceiling": 0.8343775200049625,
+    "fit_fraction_of_ceiling": 0.9574009367333284,
+    "val_loss": 0.48675060272216797,
+    "val_next_char_accuracy": 0.7804363124560169,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.19791666666666666,
+    "probability_mass_correct_family": 0.061189876016457645,
+    "mean_rank_correct": 8.916666666666666,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove"
+      ],
+      [
+       "deda",
+       "saku"
+      ],
+      [
+       "sideza"
+      ],
+      [
+       "sisul",
+       "vufoze"
+      ],
+      [
+       "sopo"
+      ],
+      [
+       "tora"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9752960698749144,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.19791666666666666,
+      "heldout_probability_mass_correct_family": 0.061189876016457645,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 3,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 491.8189949989319,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.7895395395395396,
+    "final_train_next_char_accuracy": 0.7929179179179179,
+    "train_ceiling": 0.8296577827827828,
+    "fit_fraction_of_ceiling": 0.9557168441888961,
+    "val_loss": 0.4919217824935913,
+    "val_next_char_accuracy": 0.7736294896030246,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.08333333333333333,
+    "pairwise_family_accuracy": 0.28125,
+    "probability_mass_correct_family": 0.09584464894868193,
+    "mean_rank_correct": 8.25,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba",
+       "pefepi"
+      ],
+      [
+       "lugi"
+      ],
+      [
+       "nibi",
+       "sukol"
+      ],
+      [
+       "notis",
+       "sokoso"
+      ],
+      [
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9963437666701367,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.08333333333333333,
+      "heldout_pairwise_family_accuracy": 0.28125,
+      "heldout_probability_mass_correct_family": 0.09584464894868193,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 4,
+    "n_train": 3000
+   },
+   {
+    "train_seconds": 95.87754082679749,
+    "parameters": 107008,
+    "best_val_step": 2800,
+    "train_next_char_accuracy": 0.7829377077660659,
+    "final_train_next_char_accuracy": 0.77983061323355,
+    "train_ceiling": 0.8206571671984364,
+    "fit_fraction_of_ceiling": 0.9502513892564171,
+    "val_loss": 0.5228767991065979,
+    "val_next_char_accuracy": 0.7696741854636592,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.3229166666666667,
+    "probability_mass_correct_family": 0.03827444904306119,
+    "mean_rank_correct": 7.916666666666667,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba"
+      ],
+      [
+       "ligim",
+       "vevufo"
+      ],
+      [
+       "nuzu"
+      ],
+      [
+       "sarun",
+       "sidol"
+      ],
+      [
+       "vutabi"
+      ],
+      [
+       "vuze"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9945683080418105,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.3229166666666667,
+      "heldout_probability_mass_correct_family": 0.03827444904306119,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 5,
+    "n_train": 3000
+   }
+  ],
+  "10000": [
+   {
+    "train_seconds": 88.32802677154541,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.7918282664972011,
+    "final_train_next_char_accuracy": 0.7908516583647187,
+    "train_ceiling": 0.803426072166201,
+    "fit_fraction_of_ceiling": 0.9843490095266898,
+    "val_loss": 0.468768835067749,
+    "val_next_char_accuracy": 0.7846046835149548,
+    "top4_exact_family_accuracy": 0.3333333333333333,
+    "recall_at_4": 0.5,
+    "pairwise_family_accuracy": 0.6041666666666666,
+    "probability_mass_correct_family": 0.482067205808491,
+    "mean_rank_correct": 5.666666666666667,
+    "probe": {
+     "groups": [
+      [
+       "biposu",
+       "bufo",
+       "kuful"
+      ],
+      [
+       "lige",
+       "pake"
+      ],
+      [
+       "nalum",
+       "rala",
+       "sires"
+      ],
+      [
+       "sipar"
+      ]
+     ],
+     "same_family_pairs_grouped": 7,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 2,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 2,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9937299544011019,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.3333333333333333,
+      "heldout_recall_at_4": 0.5,
+      "heldout_pairwise_family_accuracy": 0.6041666666666666,
+      "heldout_probability_mass_correct_family": 0.482067205808491,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "compatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 1,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 85.7608871459961,
+    "parameters": 107008,
+    "best_val_step": 3000,
+    "train_next_char_accuracy": 0.7747044974636538,
+    "final_train_next_char_accuracy": 0.7747044974636538,
+    "train_ceiling": 0.7953738986917793,
+    "fit_fraction_of_ceiling": 0.9740129752030808,
+    "val_loss": 0.5068565607070923,
+    "val_next_char_accuracy": 0.7655478775913129,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.21875,
+    "probability_mass_correct_family": 0.07818880693223544,
+    "mean_rank_correct": 8.75,
+    "probe": {
+     "groups": [
+      [
+       "dofe",
+       "gara"
+      ],
+      [
+       "foter",
+       "kabol"
+      ],
+      [
+       "movibo"
+      ],
+      [
+       "nirevu",
+       "sigen"
+      ],
+      [
+       "norem"
+      ],
+      [
+       "sunepi"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9957121944677062,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.21875,
+      "heldout_probability_mass_correct_family": 0.07818880693223544,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 2,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 100.72488498687744,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.7876923076923077,
+    "final_train_next_char_accuracy": 0.7874125874125875,
+    "train_ceiling": 0.8026666666666666,
+    "fit_fraction_of_ceiling": 0.980995748437609,
+    "val_loss": 0.484674334526062,
+    "val_next_char_accuracy": 0.7881773399014779,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.16666666666666666,
+    "pairwise_family_accuracy": 0.3645833333333333,
+    "probability_mass_correct_family": 0.12939629086566437,
+    "mean_rank_correct": 7.583333333333333,
+    "probe": {
+     "groups": [
+      [
+       "bime",
+       "bunove"
+      ],
+      [
+       "deda",
+       "saku"
+      ],
+      [
+       "sideza"
+      ],
+      [
+       "sisul",
+       "vufoze"
+      ],
+      [
+       "sopo"
+      ],
+      [
+       "tora"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9591454702670227,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.16666666666666666,
+      "heldout_pairwise_family_accuracy": 0.3645833333333333,
+      "heldout_probability_mass_correct_family": 0.12939629086566434,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 3,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 3679.06670999527,
+    "parameters": 107008,
+    "best_val_step": 3000,
+    "train_next_char_accuracy": 0.7817658647132668,
+    "final_train_next_char_accuracy": 0.7817658647132668,
+    "train_ceiling": 0.7959461937382751,
+    "fit_fraction_of_ceiling": 0.98218431203445,
+    "val_loss": 0.48163077235221863,
+    "val_next_char_accuracy": 0.7764650283553876,
+    "top4_exact_family_accuracy": 0.3333333333333333,
+    "recall_at_4": 0.3333333333333333,
+    "pairwise_family_accuracy": 0.3333333333333333,
+    "probability_mass_correct_family": 0.28603639565792144,
+    "mean_rank_correct": 7.833333333333333,
+    "probe": {
+     "groups": [
+      [
+       "bani"
+      ],
+      [
+       "bupuba",
+       "pefepi"
+      ],
+      [
+       "lugi",
+       "nibi",
+       "sukol"
+      ],
+      [
+       "notis",
+       "sokoso"
+      ],
+      [
+       "zukum"
+      ]
+     ],
+     "same_family_pairs_grouped": 5,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 1,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 1,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9972169869149967,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.3333333333333333,
+      "heldout_recall_at_4": 0.3333333333333333,
+      "heldout_pairwise_family_accuracy": 0.3333333333333333,
+      "heldout_probability_mass_correct_family": 0.28603639565792144,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "compatible",
+     "incompatible"
+    ],
+    "seed": 4,
+    "n_train": 10000
+   },
+   {
+    "train_seconds": 76.45042395591736,
+    "parameters": 107008,
+    "best_val_step": 2900,
+    "train_next_char_accuracy": 0.7726744593687711,
+    "final_train_next_char_accuracy": 0.7726143614090968,
+    "train_ceiling": 0.7864519166240973,
+    "fit_fraction_of_ceiling": 0.9824050842492708,
+    "val_loss": 0.5055785775184631,
+    "val_next_char_accuracy": 0.7731829573934837,
+    "top4_exact_family_accuracy": 0.0,
+    "recall_at_4": 0.0,
+    "pairwise_family_accuracy": 0.15625,
+    "probability_mass_correct_family": 0.021885884005414722,
+    "mean_rank_correct": 9.25,
+    "probe": {
+     "groups": [
+      [
+       "kumir",
+       "miba"
+      ],
+      [
+       "ligim",
+       "vevufo"
+      ],
+      [
+       "nuzu"
+      ],
+      [
+       "sarun",
+       "sidol"
+      ],
+      [
+       "vutabi"
+      ],
+      [
+       "vuze"
+      ]
+     ],
+     "same_family_pairs_grouped": 3,
+     "same_family_pairs_total": 9,
+     "different_family_pairs_grouped": 0,
+     "different_family_pairs_total": 27,
+     "families_fully_recovered": 0,
+     "exact_partition_recovered": false,
+     "seen_combo_argmax_correct": 24,
+     "seen_combo_total": 24,
+     "heldout_combo_argmax_correct": 0,
+     "heldout_combo_total": 3,
+     "combination_control": {
+      "seen_top4_exact_family": 1.0,
+      "seen_recall_at_4": 1.0,
+      "seen_pairwise_family_accuracy": 1.0,
+      "seen_probability_mass_correct_family": 0.9946370974885149,
+      "seen_n": 24,
+      "heldout_top4_exact_family": 0.0,
+      "heldout_recall_at_4": 0.0,
+      "heldout_pairwise_family_accuracy": 0.15625,
+      "heldout_probability_mass_correct_family": 0.021885884005414722,
+      "heldout_n": 3
+     }
+    },
+    "free_generation_classes": [
+     "incompatible",
+     "incompatible",
+     "incompatible"
+    ],
+    "seed": 5,
+    "n_train": 10000
+   }
+  ]
+ },
+ "data_identity": true
+}

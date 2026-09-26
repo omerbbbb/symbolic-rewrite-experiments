@@ -1,0 +1,4 @@
+# The symbolic experiments need only the Python 3 standard library.
+# PyTorch is required ONLY for transformer_baseline_v4.py and
+# fixed_world_scaling.py (which runs the neural baseline as well).
+torch>=2.0
